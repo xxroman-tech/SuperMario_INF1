@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElementMapy
+comment0.text=\r\n\ Trieda\ ElementyMapy\ predstavuje\ bloky\ mapy\ ktor\u00E9\ s\u00FA\ umiestnen\u00E9\ na\ pl\u00E1tne\ a\ tvoria\ mapu.\r\n\ \r\n\ @author\ Roman\ Lojko\ \r\n\ @version\ 20.12.2020\r\n
+comment1.params=x\ y\ sirka\ vyska
+comment1.target=ElementMapy(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Parametrick\u00FD\ kon\u0161truktor\ ktor\u00FD\ vytv\u00E1ra\ in\u0161tanciu\ triedy\ obd\u013A\u017Enik\ pod\u013Ea\ \r\n\ parametrov\ prebrat\u00FDch\ z\ parametrov\ kon\u0161truktora.\r\n\ \r\n\ @param\ x\ X\ poz\u00EDcia\ Obd\u013A\u017Enika\ na\ pl\u00E1tne\r\n\ @param\ y\ Y\ poz\u00EDcia\ Obd\u013A\u017Enika\ na\ pl\u00E1tne\r\n\ @param\ sirka\ \u0160\u00EDrka\ obd\u013A\u017Enika\r\n\ @param\ vyska\ V\u00FD\u0161ka\ obd\u013A\u017Enika\r\n
+comment2.params=
+comment2.target=void\ skryElement()
+comment2.text=\r\n\ Met\u00F3da\ ktor\u00E1\ skryje\ obd\u013A\u017Enik\ na\ pl\u00E1tne.\r\n
+comment3.params=x\ y
+comment3.target=void\ setSuradnicePreKoliziu(int,\ int)
+comment3.text=\r\n\ Met\u00F3da\ ktor\u00E1\ nastav\u00ED\ s\u00FAradnice\ do\ atrib\u00FAtov\ z\ parametrov\ met\u00F3dy.\r\n\ \r\n\ @param\ x\ X\ poz\u00EDcia\ obd\u013A\u017Enika\ pre\ Koliziu\r\n\ @param\ y\ Y\ poz\u00EDcia\ obd\u013A\u017Enika\ pre\ Koliziu\r\n
+comment4.params=sirka\ vyska
+comment4.target=void\ setRozmeryElementu(int,\ int)
+comment4.text=\r\n\ Met\u00F3da\ ktor\u00E1\ nastav\u00ED\ atrib\u00FAty\ rozmerovElementu\ pod\u013Ea\ parametrov\ met\u00F3dy.\r\n\ \r\n\ @param\ sirka\ \u0160\u00EDrka\ obd\u013A\u017Enika\ pre\ Kol\u00EDziu\r\n\ @param\ vyska\ V\u00FD\u0161ka\ obd\u013A\u017Enika\ pre\ Kol\u00EDziu\r\n
+comment5.params=
+comment5.target=void\ nakresliElementMapy()
+comment5.text=\r\n\ Met\u00F3da\ ktor\u00E1\ zobraz\u00ED\ objekty(Obd\u013A\u017Eniky)\ na\ pl\u00E1tne.\r\n
+comment6.params=
+comment6.target=Kolizia\ ohranicenieElementovMapy()
+comment6.text=\r\n\ Ohrani\u010Denie\ ElementuMapy\ pre\ triedu\ Kol\u00EDzia.\ \r\n\ \r\n\ @return\ Kolizia\ in\u0161tancia\ triedy\ Kol\u00EDzia\r\n
+numComments=7

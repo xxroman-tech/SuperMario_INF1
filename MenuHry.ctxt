@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MenuHry
+comment0.text=\n\ Trieda\ MenuHry\ sl\u00FA\u017Ei\ ako\ sp\u00FA\u0161ta\u010D\ levelov,\ \u010Di\ u\u017E\ v\u00FDberom\ po\u010Fla\ \u010D\u00EDsla\ alebo\ od\ prv\u00E9ho\ levelu.\n\ \n\ @author\ Roman\ Lojko\ \n\ @version\ 19.12.2020\n
+comment1.params=
+comment1.target=MenuHry()
+comment1.text=\n\ Bezparametrick\u00FD\ kon\u0161truktor.\ Vytvor\u00ED\ in\u0161tanciu\ triedy\ Manazer\ a\ po\u0161le\ spr\u00E1vu\ pre\n\ spravovanie\ objektu.\ Nakresl\u00ED\ menu,\ teda\ obr\u00E1zok,\ ktor\u00FD\ toto\ menu\ predstavuje.\n
+comment2.params=mapa
+comment2.target=void\ spustiHru(int)
+comment2.text=\n\ Met\u00F3da\ spustiHru,\ po\u0161le\ spr\u00E1vu\ triede\ Hra\ ktor\u00E1\ vr\u00E1ti\ in\u0161tanciu\ tejto\ triedy.\ N\u00E1sledne\n\ zavol\u00E1\ jej\ public\ met\u00F3du\ start\ s\ parametrom\ mapa,\ ktor\u00FD\ reprezentuje\ \u010D\u00EDslo\ mapy.\n\ \n\ @param\ mapa\ \u010C\u00EDslo\ mapy.\n
+comment3.params=
+comment3.target=void\ vyskoc()
+comment3.text=\n\ Met\u00F3da\ vyskoc\ sl\u00FA\u017Ei\ na\ reakciu\ na\ spr\u00E1vu\ od\ triedy\ manazer.\ Vy\u010Dist\u00ED\ pl\u00E1tno\ pomocou\ met\u00F3dy\n\ skryHru.\ Zavol\u00E1\ met\u00F3du\ spustiHru\ s\ parametrom\ 1,\ preto\u017Ee\ pri\ stla\u010Den\u00ED\ space\ chceme\ spusti\u0165\ prv\u00FA\ mapu.\n\ A\ triede\ manazer\ posle\ spravu\ prestanSpravovatObjekt.\n
+comment4.params=
+comment4.target=void\ stlaceneV()
+comment4.text=\n\ Met\u00F3da\ sl\u00FA\u017Ei\ na\ reakciu\ na\ spr\u00E1vu\ od\ triedy\ manazer.\ Pri\ stla\u010Den\u00ED\ kl\u00E1vesy\ V\ manazer\ po\u0161le\ spr\u00E1vu\n\ spravovan\u00E9mu\ objektu.\ Reakciou\ na\ spr\u00E1vu\ je\ mo\u017Enos\u0165\ vybrania\ mapy\ pod\u013Ea\ \u010D\u00EDsla,\ ktor\u00E9\ z\u00EDskavam\n\ z\ triedy\ JOptionPane\ pomocou\ showInputDialog.\ N\u00E1sledne\ spust\u00EDm\ mapu\ po\u010Fla\ zadan\u00E9ho\ \u010D\u00EDsla.\n
+comment5.params=
+comment5.target=void\ nakresliMenu()
+comment5.text=\n\ Met\u00F3da\ ktor\u00E1\ sl\u00FA\u017Ei\ na\ nakreslenie\ obr\u00E1zku\ na\ pl\u00E1tno\n\ pomocou\ triedy\ Obrazok.\n
+comment6.params=
+comment6.target=void\ skryMenu()
+comment6.text=\n\ Met\u00F3da\ ktor\u00E1\ vyma\u017Ee\ obr\u00E1zok\ predstavuj\u00FAci\ menu\n\ z\ pl\u00E1tna.\n
+numComments=7

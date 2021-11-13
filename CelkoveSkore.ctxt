@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CelkoveSkore
+comment0.text=\n\ T\u00E1to\ trieda\ sl\u00FA\u017Ei\ na\ ukladanie\ sk\u00F3re\ do\ celkoveSkore.txt\ po\ prejden\u00ED\ levelu\ a\ pre\n\ n\u00E1sledn\u00E9\ na\u010D\u00EDtanie\ t\u00FDchto\ d\u00E1t\ a\ ich\ s\u010D\u00EDtanie\ pre\ vyp\u00EDs\ celkov\u00E9ho\ sk\u00F3re\ po\ prejden\u00ED\n\ v\u0161etk\u00FDch\ levelov.\n\ \n\ @author\ Roman\ Lojko\n\ @version\ 20.12.2020\n
+comment1.params=
+comment1.target=CelkoveSkore()
+comment1.text=\n\ Kon\u0161truktor\ ktor\u00FD\ vytvor\u00ED\ in\u0161tanciu\ triedy\ ArrayList\ a\ na\u010D\u00EDta\ celkoveSkore\ zo\ s\u00FAboru\ kv\u00F4li\n\ tomu\ aby\ tam\ boli\ hodnoty\ zo\ v\u0161et\u00FDch\ m\u00E1p.\n
+comment2.params=cislo
+comment2.target=void\ pridajSkoreDoZoznamu(int)
+comment2.text=\n\ Met\u00F3da\ ktor\u00E1\ prid\u00E1\ skore\ z\ parametru\ kon\u0161truktora\ do\ zozonamu\ skore.\n\ \n\ @param\ cislo\ Hodnota\ skore\ Hr\u00E1\u010Da\n
+comment3.params=
+comment3.target=void\ ulozCelkoveSkore()
+comment3.text=\n\ Ulo\u017E\u00ED\ celkov\u00E9\ sk\u00F3re\ do\ s\u00FAboru\ .txt.\n
+comment4.params=cestkaKSuboru
+comment4.target=void\ nacitajZoSuboru(java.lang.String)
+comment4.text=\n\ Na\u010D\u00EDta\ hodnoty\ zo\ s\u00FAboru\ celkoveSkore.txt\ a\ ulo\u017E\u00ED\ ich\ do\ zoznamu\ skore.\n\ \n\ @param\ cestaKSuboru\n
+comment5.params=cestkaKSuboru
+comment5.target=void\ spocitajSkore(java.lang.String)
+comment5.text=\n\ Met\u00F3da\ ktor\u00E1\ spo\u010D\u00EDta\ celkov\u00E9\ sk\u00F3re\ na\ konci\ hry\ zo\ s\u00FAboru\ celkoveSkore.txt\n\ \n\ @param\ cestaKSuboru\n
+comment6.params=
+comment6.target=void\ vymazData()
+comment6.text=\n\ Met\u00F3da\ ktor\u00E1\ vyma\u017Ee\ d\u00E1ta\ v\ s\u00FAbore\ celkoveSkore.txt\ pri\ ukon\u010Den\u00ED\ levelu\ pred\ prejden\u00EDm\n\ celej\ mapy.\n
+comment7.params=
+comment7.target=int\ getSkore()
+comment7.text=\n\ Vr\u00E1ti\ hodnotu\ atrib\u00FAtu\ celkoveSkore.\n\ \n\ @return\ celkoveSkore\ Skore\ hr\u00E1\u010Da\ na\ konci\ hry.\n
+numComments=8

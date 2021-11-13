@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Zivot
+comment0.text=\n\ Trieda\ vytv\u00E1ra\ obr\u00E1zok\ ktor\u00FD\ bude\ pou\u017Eit\u00FD\ v\ triede\ DisplejovZivotov.\n\ \n\ @author\ Roman\ Lojko\ \n\ @version\ 19.12.2020\n
+comment1.params=x\ y
+comment1.target=Zivot(int,\ int)
+comment1.text=\n\ Parametrick\u00FD\ kon\u0161truktor,\ ktor\u00FD\ vytvor\u00ED\ obr\u00E1zok\ reprezentuj\u00FAci\ \u017Eivot\ hr\u00E1\u010Da\ na\ poz\u00EDcii\ na\u010D\u00EDtanej\n\ z\ parametrov\ kon\u0161truktora.\n\ \n\ @param\ x\ Poz\u00EDcia\ X\ obr\u00E1zku.\n\ @param\ y\ Poz\u00EDcia\ Y\ obr\u00E1zku.\n
+comment2.params=
+comment2.target=void\ skryZivot()
+comment2.text=\n\ Met\u00F3da\ pre\ odstr\u00E1nenie\ obr\u00E1zka\ z\ pl\u00E1tna.\n
+numComments=3

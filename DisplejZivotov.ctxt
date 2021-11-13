@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DisplejZivotov
+comment0.text=\n\ Trieda\ DisplejZivotov\ sl\u00FA\u017Ei\ pre\ zobrazenie\ stavu\ \u017Eivotov\ hr\u00E1\u010Da\ pomocou\ triedy\ Zivot.\n\ \n\ @author\ Roman\ Lojko\ \n\ @version\ 19.12.2020\n
+comment1.params=pocetZivotov
+comment1.target=DisplejZivotov(int)
+comment1.text=\n\ Met\u00F3da\ pre\ pridanie\ nov\u00E9ho\ objektu\ Zivot\ do\ ArrayListu\ zoznamZivotov\ s\ parametrami\ poz\u00EDcie\n\ Zivota.\n\ \n\ @param\ pocetZivotov\ Hr\u00E1\u010Dov\ po\u010Det\ \u017Eivotov.\n
+comment2.params=
+comment2.target=void\ skryDisplej()
+comment2.text=\n\ Met\u00F3da\ pre\ odstr\u00E1nenie\ Displeju\ z\ pl\u00E1tna\ pomocou\ met\u00F3dy\ skryZivot\ v\ triede\ Zivot.\n
+numComments=3

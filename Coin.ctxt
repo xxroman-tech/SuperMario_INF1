@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\n\ Trieda\ Coin\ predstavuje\ point\ ktor\u00FD\ hr\u00E1\u010D\ zbiera,\ trieda\ vytvor\u00ED\ obr\u00E1zok\ na\ ur\u010Ditej\ poz\u00EDcii,\ ktor\u00E1\ \n\ pr\u00EDde\ ako\ parameter.\n\ \n\ @author\ Roman\ Lojko\ \n\ @version\ 19.12.2020\n
+comment1.params=pozX\ pozXMax\ pozY
+comment1.target=Coin(int,\ int,\ int)
+comment1.text=\n\ Parametrick\u00FD\ kon\u0161truktor\n\ \n\ @param\ pozX\ X\ poz\u00EDcia\ Coinu\n\ @param\ pozXMax\ maxim\u00E1lna\ poz\u00EDcia\ Coinu\ kde\ sa\ m\u00F4\u017Ee\ vygenerova\u0165\n\ @param\ pozY\ Y\ poz\u00EDcia\ Coinu\n
+comment2.params=
+comment2.target=Kolizia\ ohranicenieCoinu()
+comment2.text=\n\ Met\u00F3da\ pre\ vytvorenie\ in\u0161tancie\ triedy\ Kol\u00EDzia\ pre\ kontrolu\ kol\u00EDzie\ objektov.\n\ \n\ @return\ Kolizia\ in\u0161tancia\ triedy\ Kol\u00EDzia\n
+comment3.params=other
+comment3.target=boolean\ jeVKolizii(Hrac)
+comment3.text=\n\ Met\u00F3da\ pre\ kontrolu\ kol\u00EDzie\ Coinu\ s\ hr\u00E1\u010Dom\ pomocou\ triedy\ Kol\u00EDzia.\n
+comment4.params=
+comment4.target=void\ skryCoin()
+comment4.text=\n\ Met\u00F3da\ pre\ vymazanie\ obr\u00E1zka\ reprezentuj\u00FAceho\ t\u00FAto\ triedu\ z\ pl\u00E1tna.\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Kolizia
+comment0.text=\r\n\ Trieda\ Kolizia\ ktor\u00E1\ sl\u00FA\u017Ei\ na\ kontrolu\ kol\u00EDzie\ objektov\ ktor\u00E9\ potrebujem\ napr\u00EDklad\ pre\ zistenie\ \u010Di\ je\ \r\n\ objekt\ hr\u00E1\u010D\ alebo\ enem\u00E1k\ na\ zemi.\ Alebo\ pre\ kontrolu\ kol\u00EDzie\ hr\u00E1\u010Da\ s\ coinom.\r\n\ \r\n\ @author\ Roman\ Lojko\ \r\n\ @version\ 19.12.2020\r\n
+comment1.params=minX\ maxX\ minY\ maxY
+comment1.target=Kolizia(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Parametrick\u00FD\ kon\u0161truktor\ pre\ nastavnie\ hodn\u00F4t\ atrib\u00FAtov\ z\ parametrov.\r\n\ \r\n\ @param\ minX\ minm\u00E1lna\ hodnota\ x\ s\u00FAradnice\ pre\ objekt\r\n\ @param\ maxX\ maxim\u00E1lna\ hodnota\ x\ s\u00FAradnice\ pre\ objekt\r\n\ @param\ minY\ minm\u00E1lna\ hodnota\ y\ s\u00FAradnice\ pre\ objekt\r\n\ @param\ maxY\ maxim\u00E1lna\ hodnota\ y\ s\u00FAradnice\ pre\ objekt\r\n
+comment2.params=other
+comment2.target=boolean\ jeVKolizii(Kolizia)
+comment2.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vracia\ boolean\ ak\ sa\ prekr\u00FDvaj\u00FA\ ohrani\u010Denia\ objektov\r\n\ \r\n\ @return\ true/false\r\n
+comment3.params=other
+comment3.target=boolean\ jeNaVrchuBloku(Kolizia)
+comment3.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vracia\ boolean\ ak\ sa\ prekr\u00FDvaj\u00FA\ ohrani\u010Denia\ objektov.\r\n\ \u0160peci\u00E1lna\ met\u00F3da\ pre\ gravit\u00E1ciu.\ Preto\u017Ee\ kontrolujem\ viacer\ kol\u00EDzi\u00ED\ naraz.\r\n\ \r\n\ @return\ true/false\r\n
+comment4.params=other
+comment4.target=boolean\ koliziaEnemakaAHraca(Kolizia)
+comment4.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vracia\ boolean\ ak\ sa\ prekr\u00FDvaj\u00FA\ ohrani\u010Denia\ objektov.\ \r\n\ \u0160peci\u00E1lna\ met\u00F3da\ pre\ EnemakaAHraca.\ Preto\u017Ee\ kontrolujem\ viacer\ kol\u00EDzi\u00ED\ naraz.\r\n\ \r\n\ @return\ true/false\r\n
+numComments=5

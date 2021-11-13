@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Trieda\ Aplik\u00E1cia\ sl\u00FA\u017Ei\ na\ vytvorenie\ in\u0161tancie\ triedy\ MenuHry.\ \n\ Je\ potrebn\u00E1\ pre\ .jar\ s\u00FAbor.\n\ \n\ @author\ Roman\ Lojko\ \n\ @version\ 20.12.2020\n
+comment1.params=parametre
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ T\u00E1to\ met\u00F3da\ je\ vol\u00E1na\ .jar\ s\u00FAborom\ ktor\u00FD\ sme\ si\ vytvorili\ a\ vytvor\u00ED\n\ in\u0161tanciu\ triedy\ MenuHry.\n
+numComments=2
