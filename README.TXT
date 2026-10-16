@@ -1,4 +1,4 @@
-# First-ever Java application I built
+#First-ever Java application I built
 And it's a game! 
 
   ____                         __  __             _         
